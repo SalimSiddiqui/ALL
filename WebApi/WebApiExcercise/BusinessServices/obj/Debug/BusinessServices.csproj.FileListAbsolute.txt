@@ -1,0 +1,16 @@
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\BusinessServices.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\AutoMapper.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\DataModel.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\EntityFramework.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\System.ValueTuple.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\DataModel.pdb
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\AutoMapper.pdb
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\AutoMapper.xml
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\EntityFramework.xml
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\bin\Debug\System.ValueTuple.xml
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\obj\Debug\BusinessServices.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessServices\obj\Debug\BusinessServices.pdb

@@ -1,0 +1,12 @@
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\BusinessEntities.dll.config
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\DataModel.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\EntityFramework.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\DataModel.pdb
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\EntityFramework.xml
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\projects\Git\WebApiTokenBasedAuthentication\WebApiExcercise\BusinessEntities\obj\Debug\BusinessEntities.pdb

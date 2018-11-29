@@ -1,0 +1,3 @@
+﻿http://localhost:61281/api/authenticate
+http://localhost:61281/v1/Products/Product/allproducts
+http://localhost:61281/na/all
