@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract1.cs" />
     <Compile Include="AbstractDemo.cs" />
     <Compile Include="CanInstantiateSealedClass.cs" />
     <Compile Include="Check_String_Object.cs" />

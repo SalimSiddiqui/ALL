@@ -55,7 +55,6 @@ public class ConcreateCreator : Creater
         {
             case "A": return new ConcreateClassA();
             case "B": return new ConcreateClassB();
-
             default: throw new ArgumentException("Invalid Type");
 
         }

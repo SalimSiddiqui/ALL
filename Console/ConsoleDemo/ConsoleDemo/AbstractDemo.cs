@@ -61,6 +61,7 @@ namespace ConsoleDemo
     /// </summary>
     public interface IC
     {
+        
         void PrintB();
     }
     public class AbstractDemo2 : IA, IC

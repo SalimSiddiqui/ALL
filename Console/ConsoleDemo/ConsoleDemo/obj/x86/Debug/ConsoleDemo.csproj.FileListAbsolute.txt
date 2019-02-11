@@ -23,3 +23,8 @@ C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\obj\x86\Debug\Con
 C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
 C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
 C:\projects\projects\Git\SalimSiddiqui\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\projects\projects\Git\All\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.exe
+C:\projects\projects\Git\All\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.pdb
+C:\projects\projects\Git\All\Console\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\projects\projects\Git\All\Console\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\projects\projects\Git\All\Console\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
