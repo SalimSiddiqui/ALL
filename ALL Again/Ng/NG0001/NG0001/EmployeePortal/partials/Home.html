@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <h1>Company Details</h1>
+    <form name="companyForm">
+        <table>
+            <tr>
+                <td>
+                    CompanyName
+                </td>
+                <td>
+                    CEO
+                </td>
+                <td>
+                    Country
+                </td>
+                <td>
+                    FoundationYear
+                </td>
+                <td>
+                    NoOfEmployee
+                </td>
+            </tr>
+            <tr data-ng-repeat="comp in Companies">
+                <td>
+                    {{comp.name}}
+                </td>
+                <td>
+                    {{comp.ceo}}
+                </td>
+                <td>
+                    {{comp.country}}
+                </td>
+                <td>
+                    {{comp.foundationYear}}
+                </td>
+                <td>
+                    {{comp.noOfEmployee}}
+                </td>
+                <td>
+                    <input type="submit" id="Edit" value="Edit" data-ng-click="getCompany(comp)" />
+                </td>
+                <td>
+                    <input type="submit" id="Delete" value="Delete" data-ng-click="deletecompany(comp)" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Company Name
+                </td>
+                <td>
+                    <input type="text" data-ng-model="Company.name" required />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    CEO
+                </td>
+                <td>
+                    <input type="text" data-ng-model="Company.ceo" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Country
+                </td>
+                <td>
+                    <input type="text" data-ng-model="Company.country" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    FoundationYear
+                </td>
+                <td>
+                    <input type="text" data-ng-model="Company.foundationYear" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    NoOfEmployee
+                </td>
+                <td>
+                    <input type="text" data-ng-model="Company.noOfEmployee" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Save" data-ng-click="createCompany(Company)" data-ng-disabled="companyForm.user.$dirty && companyForm.user.$invalid ||                    companyForm.Company.name.$dirty && companyForm.Company.name.$invalid" />
+                    <input type="submit" value="Update" data-ng-click="updateCompany(Company)" />
+                    <input type="reset" value="Clear" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

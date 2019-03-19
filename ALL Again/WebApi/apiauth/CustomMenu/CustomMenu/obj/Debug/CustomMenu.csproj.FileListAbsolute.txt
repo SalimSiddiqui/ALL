@@ -1,0 +1,6 @@
+C:\projects\#App\WebApi\apiauth\CustomMenu\CustomMenu\bin\Debug\CustomMenu.exe.config
+C:\projects\#App\WebApi\apiauth\CustomMenu\CustomMenu\bin\Debug\CustomMenu.exe
+C:\projects\#App\WebApi\apiauth\CustomMenu\CustomMenu\bin\Debug\CustomMenu.pdb
+C:\projects\#App\WebApi\apiauth\CustomMenu\CustomMenu\obj\Debug\CustomMenu.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\apiauth\CustomMenu\CustomMenu\obj\Debug\CustomMenu.exe
+C:\projects\#App\WebApi\apiauth\CustomMenu\CustomMenu\obj\Debug\CustomMenu.pdb

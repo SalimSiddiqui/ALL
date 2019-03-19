@@ -1,0 +1,10 @@
+E:\2017\MVC\VS2010\Directory\TestNgDemo\TestNgDemo\bin\TestNgDemo.dll
+E:\2017\MVC\VS2010\Directory\TestNgDemo\TestNgDemo\bin\TestNgDemo.pdb
+E:\2017\MVC\VS2010\Directory\TestNgDemo\TestNgDemo\obj\Debug\TestNgDemo.dll
+E:\2017\MVC\VS2010\Directory\TestNgDemo\TestNgDemo\obj\Debug\TestNgDemo.pdb
+E:\2017\MVC\VS2010\Directory\TestNgDemo\TestNgDemo\obj\Debug\TestNgDemo.csprojResolveAssemblyReference.cache
+D:\projects\App\TestNgDemo\TestNgDemo\TestNgDemo\bin\TestNgDemo.dll
+D:\projects\App\TestNgDemo\TestNgDemo\TestNgDemo\bin\TestNgDemo.pdb
+D:\projects\App\TestNgDemo\TestNgDemo\TestNgDemo\obj\Debug\TestNgDemo.csprojResolveAssemblyReference.cache
+D:\projects\App\TestNgDemo\TestNgDemo\TestNgDemo\obj\Debug\TestNgDemo.dll
+D:\projects\App\TestNgDemo\TestNgDemo\TestNgDemo\obj\Debug\TestNgDemo.pdb

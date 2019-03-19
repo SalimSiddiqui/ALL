@@ -1,0 +1,8 @@
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\bin\Debug\TransactionWCF.exe.config
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\bin\Debug\TransactionWCF.exe
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\bin\Debug\TransactionWCF.pdb
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\bin\Debug\DataAccess.dll
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\bin\Debug\DataAccess.pdb
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\obj\x86\Debug\TransactionWCF.csprojResolveAssemblyReference.cache
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\obj\x86\Debug\TransactionWCF.exe
+D:\projects\#App\WCF\Transaction\TransactionWCF\TransactionWCF\obj\x86\Debug\TransactionWCF.pdb

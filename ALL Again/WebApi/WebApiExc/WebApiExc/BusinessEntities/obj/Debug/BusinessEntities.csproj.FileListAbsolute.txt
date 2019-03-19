@@ -1,0 +1,5 @@
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\BusinessEntities\obj\Debug\BusinessEntities.pdb

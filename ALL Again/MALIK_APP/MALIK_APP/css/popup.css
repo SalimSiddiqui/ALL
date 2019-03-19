@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mask {
+	display: none;
+	background: #000;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 10;
+	width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	z-index: 999;
+}
+.login-window {
+	text-decoration:none !important;
+}
+/* You can customize to your needs  */
+.login-popup {
+	display:none;
+	background: #f1f1f1;
+	border: 2px solid #ddd;
+	float: left;
+	font-size: 1.2em;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	z-index: 99999;
+	box-shadow: 0px 0px 20px #999; /* CSS3 */
+	-moz-box-shadow: 0px 0px 20px #999; /* Firefox */
+	-webkit-box-shadow: 0px 0px 20px #999; /* Safari, Chrome */
+	border-radius:3px 3px 3px 3px;
+	-moz-border-radius: 3px; /* Firefox */
+	-webkit-border-radius: 3px; /* Safari, Chrome */
+	width:260px;
+	min-height:306px;
+	-webkit-height:274px;
+}
+.it-popup {
+	display:none;
+	background: #f1f1f1;
+	border: 2px solid #ddd;
+	float: left;
+	font-size: 1.2em;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	z-index: 99999;
+	box-shadow: 0px 0px 20px #999; /* CSS3 */
+	-moz-box-shadow: 0px 0px 20px #999; /* Firefox */
+	-webkit-box-shadow: 0px 0px 20px #999; /* Safari, Chrome */
+	border-radius:3px 3px 3px 3px;
+	-moz-border-radius: 3px; /* Firefox */
+	-webkit-border-radius: 3px; /* Safari, Chrome */
+	width:600px;
+	-webkit-height:274px;
+}
+.enquiry_heading {
+	width:auto;
+	height:40px;
+	background:#C0C0C0;
+	line-height:40px;
+	padding-left:10px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+}
+.it_content
+{
+	padding:10px;
+	max-height:300px;
+	overflow:auto;
+	margin:3px;
+}
+.enquiry_content table {
+	margin-bottom:10px;
+}
+.enquiry_content td p {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:right;
+	color:#333;
+}
+.enquiry_content td input {
+	width:150px;
+	padding:3px;
+	margin-left:10px;
+}
+.enquiry_content td textarea {
+	width:150px;
+	padding:3px;
+	margin-left:10px;
+}
+.enquiry_content td button {
+	padding:8px 5px;
+	margin-left:10px;
+}
+img.btn_close {
+	float: right;
+	margin: 12px 8px 0 0;
+	outline:none;
+	border:none;
+}

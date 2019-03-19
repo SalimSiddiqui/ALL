@@ -1,0 +1,79 @@
+<%--<div class="right">
+                <div class="example-wrapper adjust">
+                  <p class="detail_heading">Property Detail</p>
+                  <div class="property_outer">
+        <div class="property_detail">
+                      <div class="property_image">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                <td align="center" colspan="3"><div class="prop_image_cont"><img src="<%=Image %>" width="240" height="151" /></div></td>
+              </tr>
+                          
+                        </table>
+          </div>
+                      <div class="property_content">
+            <p class="prop_name"><%=propname %></p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                <td>City:</td>
+                <td class="td_cont"><%=city %></td>
+                <td>Area:</td>
+                <td class="td_cont"><%=sqrfeet %> Sq. Ft.</td>
+              </tr>
+                          <tr>
+                <td>Price:</td>
+                <td class="td_cont rs">INR <%=price %></td>
+                <td>Status:</td>
+                <td class="td_cont"><%=purpose %></td>
+              </tr>
+                          <tr>
+                <td colspan="4"><%=Discription %><br />
+                              
+                              <!--popup --> 
+                              <a href="#login-box" class="login-window">
+                  <p class="enquiry login-window">Enquiry</p>
+                  </a>
+                              <div id="login-box" class="login-popup"> <a href="#" class="close"><img src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close" /></a>
+                    <div class="enquiry_heading">Enquiry Form</div>
+                    <div class="enquiry_content">
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                                      <td valign="top"><p>Name:</p></td>
+                                      <td><input name="name" type="text" /></td>
+                                    </tr>
+                        <tr>
+                                      <td valign="top"><p>Address:</p></td>
+                                      <td><textarea name="address" cols="" rows="">&nbsp;</textarea></td>
+                                    </tr>
+                        <tr>
+                                      <td valign="top"><p>Email:</p></td>
+                                      <td><input name="name" type="text" /></td>
+                                    </tr>
+                        <tr>
+                                      <td valign="top"><p>Remarks:</p></td>
+                                      <td><textarea name="address" cols="" rows="">&nbsp;</textarea></td>
+                                    </tr>
+                        <tr>
+                                      <td valign="top"></td>
+                                      <td><button type="submit">Submit</button>
+                            <button type="reset">Reset</button></td>
+                                    </tr>
+                      </table>
+                                </div>
+                  </div>
+                              
+                              <!--end popup -->
+                              
+                           <p class="download"><asp:LinkButton ID="btnDownload" runat="server" 
+                                      onclick="btnDownload_Click">Download</asp:LinkButton></p> 
+                              </td>
+              </tr>
+                        </table>
+          </div>
+                    </div>
+      </div>
+                  <div class="clr">
+                      
+                    </div>
+                </div>                
+             </div>--%>

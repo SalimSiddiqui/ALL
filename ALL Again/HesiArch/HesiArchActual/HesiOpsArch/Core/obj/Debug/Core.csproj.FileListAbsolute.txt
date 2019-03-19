@@ -1,0 +1,10 @@
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\Core.dll.config
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\Core.dll
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\Core.pdb
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\EntityFramework.dll
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\EntityFramework.xml
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\obj\Debug\Core.dll
+C:\projects\#App\HesiArch\HesiArchActual\HesiOpsArch\Core\obj\Debug\Core.pdb

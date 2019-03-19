@@ -1,0 +1,30 @@
+﻿@model IEnumerable<TestingP.Models.UserProfile>
+
+@{
+    ViewBag.Title = "Index";
+    var mes = new string[] { "a", "b", "c" };
+}
+
+<h2>Index</h2>
+
+ @* @foreach (var item in Model)
+{
+    <ul>
+  <li><b>@item.UserId :- @item.UserName</b></li>
+  
+</ul>
+}*@
+
+
+@{
+    var message = "Hello, World!";
+}
+ 
+@message
+ 
+@for (var i = 0; i < 10; i++)
+{
+    <div>
+        @message
+    </div>
+}

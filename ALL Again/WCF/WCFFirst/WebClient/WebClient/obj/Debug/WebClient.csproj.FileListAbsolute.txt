@@ -1,0 +1,5 @@
+D:\projects\#App\WCF\WCFFirst\WebClient\WebClient\bin\WebClient.dll
+D:\projects\#App\WCF\WCFFirst\WebClient\WebClient\bin\WebClient.pdb
+D:\projects\#App\WCF\WCFFirst\WebClient\WebClient\obj\Debug\WebClient.dll
+D:\projects\#App\WCF\WCFFirst\WebClient\WebClient\obj\Debug\WebClient.pdb
+D:\projects\#App\WCF\WCFFirst\WebClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache

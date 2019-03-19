@@ -1,0 +1,15 @@
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\DIMicrosoftUnity.exe.config
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\DIMicrosoftUnity.exe
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\DIMicrosoftUnity.pdb
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\CommonServiceLocator.dll
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.Abstractions.dll
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.Container.dll
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.Interception.dll
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.ServiceLocation.dll
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\CommonServiceLocator.pdb
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.Abstractions.pdb
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.Container.pdb
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\bin\Debug\Unity.ServiceLocation.pdb
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\obj\x86\Debug\DIMicrosoftUnity.csprojResolveAssemblyReference.cache
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\obj\x86\Debug\DIMicrosoftUnity.exe
+D:\projects\#App\Console\ConsoleDemo\Dependency Injection using Microsoft Unity\DIMicrosoftUnity\DIMicrosoftUnity\DIMicrosoftUnity\obj\x86\Debug\DIMicrosoftUnity.pdb

@@ -1,0 +1,69 @@
+.ui-carousel {
+	height: 197px !important;
+	margin: 0;
+	overflow: auto;
+	padding: 0px;
+	position: relative; /*for ie7 to work e.g in html carousels*/
+	width: 517px !important;
+	/*border:solid 1px #f00;*/
+}
+
+.ui-carousel > .wrapper {
+    margin: 0;
+    padding: 0;
+    width: 9999px;
+}
+
+.ui-carousel > .wrapper > * {
+	border: 0;
+	display: block;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+	width: 100px;	
+}
+#container {
+				width: 654px;
+				position: relative;
+				margin-top:35px;
+				margin-bottom:25px;
+				
+			}
+			
+			#carousel {
+				margin: 0 auto;
+			}
+
+			#carousel img {
+				border: 0;
+				margin: 0 17px;
+				width:150px !important;
+				height:197px !important;
+			}
+
+			#ui-carousel-next, #ui-carousel-prev {
+				width: 38px;
+				height: 38px;
+				background: url(../images/arrow-left.png)  center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 0;
+				z-index: 100;
+				
+			}
+
+			#ui-carousel-next {
+				right: 18px;
+				top:80px;
+				background-image: url(../images/arrow-right.png);
+			}
+
+			#ui-carousel-prev {
+				background: url(../images/arrow-left.png)  center center no-repeat;
+				left: 18px;
+				top:80px;
+			}
+			
+			#ui-carousel-next > span, #ui-carousel-prev > span {
+				display: none;
+			}		

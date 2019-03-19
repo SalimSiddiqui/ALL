@@ -1,0 +1,73 @@
+2018-04-11 14:46:25.6613|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 14:47:00.5131|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 14:48:00.1171|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 14:50:59.8065|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 15:00:37.6815|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: edf18c7b-bb6a-4294-9e8b-000ec78b8861
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 15:19:21.3545|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 15:21:41.7775|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Token: 3a1bd241-9920-4fcc-9c77-61871693d6c0
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 18:28:46.7095|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 18:30:12.3601|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-04-11 18:38:11.7680|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: 3a1bd241-9920-4fcc-9c77-61871693d6c0
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

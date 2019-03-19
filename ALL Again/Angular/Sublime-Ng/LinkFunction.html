@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+ <title>Link Not worked</title>
+<script src="angular.js" type="text/javascript"></script>
+ <script>
+     var app = angular.module('app', []);
+     app.directive('message',function($interpolate)
+     {
+         return
+         {
+            compile: function(tElement, tAttributes)
+            {
+                   Console.log(tAttributes.text =" -In Complie ");
+                   
+            },
+            return
+                   {
+                    pre:function(scope,iElement,iAttributes,controller)
+                    {
+                            Console.log(iattributes.text+" -In Pre ");
+                    },
+                    post:function(scope,iElement,iAttributes,controller)
+                    {
+                        Console.log(iattributes.text+" -In Post ");
+                    }
+                   },
+            controller: function($scope,$element,$attrs)
+            {
+                     Console.log(iattributes.text+" -In controller ");
+            }
+
+         },
+
+     });
+     app.controller('msg',function($scope)
+        {
+
+        });
+
+ </script>
+</head>
+<body ng-app="app">
+ 
+ <div ng-controller="msg">
+     <div message text="first">     
+            <div message text="....second">
+                 <div message text=".........Third">
+         
+                </div>        
+            </div>
+     </div>
+
+ </div>
+</body>
+
+</html>

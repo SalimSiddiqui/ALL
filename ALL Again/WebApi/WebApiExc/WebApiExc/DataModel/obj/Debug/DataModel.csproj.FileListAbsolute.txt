@@ -1,0 +1,10 @@
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\DataModel.dll.config
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\DataModel.dll
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\DataModel.pdb
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\EntityFramework.dll
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\EntityFramework.xml
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\obj\Debug\DataModel.dll
+C:\projects\#App\WebApi\WebApiExc\WebApiExc\DataModel\obj\Debug\DataModel.pdb

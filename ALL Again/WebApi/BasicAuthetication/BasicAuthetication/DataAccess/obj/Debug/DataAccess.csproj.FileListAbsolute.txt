@@ -1,0 +1,14 @@
+D:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\DataAccess.dll
+D:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\DataAccess.pdb
+D:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\obj\Debug\DataAccess.dll
+D:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\obj\Debug\DataAccess.pdb
+D:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\DataAccess.dll.config
+D:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\DataAccess.dll.config
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\DataAccess.dll
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\DataAccess.pdb
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\obj\Debug\DataAccess.dll
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\obj\Debug\DataAccess.pdb
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\EntityFramework.dll
+C:\projects\#App\WebApi\BasicAuthetication\BasicAuthetication\DataAccess\bin\Debug\EntityFramework.xml

@@ -1,0 +1,5 @@
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\HelloServicePro\bin\Debug\HelloServicePro.dll
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\HelloServicePro\bin\Debug\HelloServicePro.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\HelloServicePro\obj\Debug\HelloServicePro.dll
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\HelloServicePro\obj\Debug\HelloServicePro.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\HelloServicePro\obj\Debug\HelloServicePro.csprojResolveAssemblyReference.cache

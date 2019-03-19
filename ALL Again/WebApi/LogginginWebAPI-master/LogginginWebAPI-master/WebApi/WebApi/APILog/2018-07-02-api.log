@@ -1,0 +1,7 @@
+2018-07-02 23:23:54.8389|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

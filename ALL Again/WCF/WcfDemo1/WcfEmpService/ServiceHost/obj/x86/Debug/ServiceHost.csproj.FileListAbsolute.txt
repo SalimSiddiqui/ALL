@@ -1,0 +1,7 @@
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\obj\x86\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\bin\Debug\ServiceHost.exe
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\bin\Debug\ServiceHost.pdb
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\bin\Debug\WcfEmpService.exe
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\bin\Debug\WcfEmpService.pdb
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\obj\x86\Debug\ServiceHost.exe
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\ServiceHost\obj\x86\Debug\ServiceHost.pdb

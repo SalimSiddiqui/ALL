@@ -1,0 +1,36 @@
+2018-05-11 14:28:31.5861|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: The system cannot find the file specified
+
+
+2018-05-11 14:29:46.5221|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-05-11 14:45:58.4231|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-05-11 14:51:05.2641|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-05-11 15:01:07.6616|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/get/token
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

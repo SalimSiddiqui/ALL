@@ -1,0 +1,11 @@
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\Interface_Decoupling.exe
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\Interface_Decoupling.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\Customer.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\InterfaceCustomer.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\Customer.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\InterfaceCustomer.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\obj\x86\Debug\Interface_Decoupling.csprojResolveAssemblyReference.cache
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\obj\x86\Debug\Interface_Decoupling.exe
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\obj\x86\Debug\Interface_Decoupling.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\Factory.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Interface_Decoupling\bin\Debug\Factory.pdb

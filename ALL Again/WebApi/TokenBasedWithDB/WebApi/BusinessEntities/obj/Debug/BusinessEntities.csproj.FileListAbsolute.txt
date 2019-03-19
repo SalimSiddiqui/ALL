@@ -1,0 +1,14 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb

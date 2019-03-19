@@ -1,1 +1,4 @@
-asas
+https://bertwagner.com/2017/11/21/does-the-join-order-of-my-tables-matter/
+https://www.databasejournal.com/features/mssql/article.php/3070301/SQLISAPI-and-XML-Client-Side-Processing-XML-and-SQL-part-10.htm
+
+SQLISAPI and XML Client-Side Processing (XML and SQL part 10)

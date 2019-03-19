@@ -1,0 +1,6 @@
+C:\Users\mangesh\Desktop\WcfService3\WcfService3\PaymentClient\bin\Debug\PaymentClient.pdb
+C:\Users\mangesh\Desktop\WcfService3\WcfService3\PaymentClient\bin\Debug\PaymentClient.exe.config
+C:\Users\mangesh\Desktop\WcfService3\WcfService3\PaymentClient\bin\Debug\PaymentClient.exe
+C:\Users\mangesh\Desktop\WcfService3\WcfService3\PaymentClient\obj\Debug\PaymentClient.exe
+C:\Users\mangesh\Desktop\WcfService3\WcfService3\PaymentClient\obj\Debug\PaymentClient.pdb
+C:\Users\mangesh\Desktop\WcfService3\WcfService3\PaymentClient\obj\Debug\PaymentClient.csprojResolveAssemblyReference.cache

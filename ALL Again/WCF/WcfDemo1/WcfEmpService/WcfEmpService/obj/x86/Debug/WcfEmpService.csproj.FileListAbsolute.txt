@@ -1,0 +1,5 @@
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\WcfEmpService\bin\Debug\WcfEmpService.exe.config
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\WcfEmpService\bin\Debug\WcfEmpService.exe
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\WcfEmpService\bin\Debug\WcfEmpService.pdb
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\WcfEmpService\obj\x86\Debug\WcfEmpService.exe
+D:\projects\#App\WCF\WcfDemo1\WcfEmpService\WcfEmpService\obj\x86\Debug\WcfEmpService.pdb

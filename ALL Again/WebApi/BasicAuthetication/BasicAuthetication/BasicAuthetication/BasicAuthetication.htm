@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/angular.js" type="text/javascript"></script>
+    <script>
+        var app = angular.module("myapp", []);
+
+
+        app.controller("myCntrl", function ($scope, $http) {
+        
+            $http.get("api/Employee").then(function (response) {
+                $scope.StudentList = response.data;               
+            });
+        });
+        app.controller("myct", function ($scope, $http) {
+            $scope.click = function () {
+               
+                var http = {
+                    url: 'api/Employee',
+                    method: 'GET'
+                }
+                $http(http).then(function (response) {
+                    $scope.StudentList = response.data;
+                    // alert($scope.StudentList[0].City);
+
+                });
+            }
+        });
+
+    </script>
+</head>
+<body ng-app="myapp">
+    <div ng-controller="myCntrl">
+        
+        <table style="width: 50%;" border="1">
+            <tr ng-repeat="st in StudentList">
+                <td>
+                    {{st.Id}}
+                </td>
+                <td>
+                    {{st.Name}}
+                </td>
+                <td>
+                    {{st.Gender}}
+                </td>
+                <td>
+                    {{st.City}}
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div ng-controller="myct">
+        <input type="button" value="Click" ng-click="click()" />
+        <table style="width: 50%;" border="1">
+            <tr ng-repeat="st in StudentList">
+                <td>
+                    {{st.Id}}
+                </td>
+                <td>
+                    {{st.Name}}
+                </td>
+                <td>
+                    {{st.Gender}}
+                </td>
+                <td>
+                    {{st.City}}
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

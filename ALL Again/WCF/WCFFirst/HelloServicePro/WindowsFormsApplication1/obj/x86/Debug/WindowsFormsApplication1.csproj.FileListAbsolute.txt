@@ -1,0 +1,11 @@
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\bin\Debug\HelloServicePro.dll
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\bin\Debug\HelloServicePro.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

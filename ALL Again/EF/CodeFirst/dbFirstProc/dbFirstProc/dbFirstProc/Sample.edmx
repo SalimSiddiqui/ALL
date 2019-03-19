@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="SampledataModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="SampledataModelStoreContainer">
+          <EntitySet Name="Departments" EntityType="SampledataModel.Store.Departments" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Employees" EntityType="SampledataModel.Store.Employees" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_dbo_Employees_dbo_Departments_DepartmentId" Association="SampledataModel.Store.FK_dbo_Employees_dbo_Departments_DepartmentId">
+            <End Role="Departments" EntitySet="Departments" />
+            <End Role="Employees" EntitySet="Employees" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Departments">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Employees">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="FirstName" Type="nvarchar(max)" />
+          <Property Name="LastName" Type="nvarchar(max)" />
+          <Property Name="Gender" Type="nvarchar(max)" />
+          <Property Name="Salary" Type="int" Nullable="false" />
+          <Property Name="DepartmentId" Type="int" Nullable="false" />
+          <Property Name="City" Type="nvarchar(max)" />
+        </EntityType>
+        <Association Name="FK_dbo_Employees_dbo_Departments_DepartmentId">
+          <End Role="Departments" Type="SampledataModel.Store.Departments" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Employees" Type="SampledataModel.Store.Employees" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departments">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Employees">
+              <PropertyRef Name="DepartmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="delemp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="getemp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="getempwithdept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="insertemp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="FirstName" Type="nvarchar" Mode="In" />
+          <Parameter Name="LastName" Type="nvarchar" Mode="In" />
+          <Parameter Name="Gender" Type="nvarchar" Mode="In" />
+          <Parameter Name="Salary" Type="int" Mode="In" />
+          <Parameter Name="depId" Type="int" Mode="In" />
+          <Parameter Name="City" Type="nvarchar" Mode="In" />
+        </Function>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SampledataModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="SampledataEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Departments" EntityType="SampledataModel.Department" />
+          <EntitySet Name="Employees" EntityType="SampledataModel.Employee" />
+          <AssociationSet Name="FK_dbo_Employees_dbo_Departments_DepartmentId" Association="SampledataModel.FK_dbo_Employees_dbo_Departments_DepartmentId">
+            <End Role="Departments" EntitySet="Departments" />
+            <End Role="Employees" EntitySet="Employees" />
+          </AssociationSet>
+          <FunctionImport Name="getempdataResult" ReturnType="Collection(SampledataModel.getempdataResult_Result)" />
+          <FunctionImport Name="getempwithdept" ReturnType="Collection(SampledataModel.getempwithdept_Result)" />
+        </EntityContainer>
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="Employees" Relationship="SampledataModel.FK_dbo_Employees_dbo_Departments_DepartmentId" FromRole="Departments" ToRole="Employees" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FirstName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="LastName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="Gender" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="Salary" Type="Int32" Nullable="false" />
+          <Property Name="DepartmentId" Type="Int32" Nullable="false" />
+          <Property Name="City" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="Department" Relationship="SampledataModel.FK_dbo_Employees_dbo_Departments_DepartmentId" FromRole="Employees" ToRole="Departments" />
+        </EntityType>
+        <Association Name="FK_dbo_Employees_dbo_Departments_DepartmentId">
+          <End Role="Departments" Type="SampledataModel.Department" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Employees" Type="SampledataModel.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departments">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Employees">
+              <PropertyRef Name="DepartmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <ComplexType Name="getemp_Result">
+          <Property Type="Int32" Name="Id" Nullable="false" />
+          <Property Type="String" Name="FirstName" Nullable="true" />
+          <Property Type="String" Name="LastName" Nullable="true" />
+          <Property Type="String" Name="Gender" Nullable="true" />
+          <Property Type="Int32" Name="Salary" Nullable="false" />
+          <Property Type="Int32" Name="DepartmentId" Nullable="false" />
+          <Property Type="String" Name="City" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="Getempdata_Result">
+          <Property Type="Int32" Name="Id" Nullable="false" />
+          <Property Type="String" Name="FirstName" Nullable="true" />
+          <Property Type="String" Name="LastName" Nullable="true" />
+          <Property Type="String" Name="Gender" Nullable="true" />
+          <Property Type="Int32" Name="Salary" Nullable="false" />
+          <Property Type="Int32" Name="DepartmentId" Nullable="false" />
+          <Property Type="String" Name="City" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="getempdataResult_Result">
+          <Property Type="Int32" Name="Id" Nullable="false" />
+          <Property Type="String" Name="FirstName" Nullable="true" />
+          <Property Type="String" Name="LastName" Nullable="true" />
+          <Property Type="String" Name="Gender" Nullable="true" />
+          <Property Type="Int32" Name="Salary" Nullable="false" />
+          <Property Type="String" Name="City" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="getempwithdept_Result">
+          <Property Type="Int32" Name="Id" Nullable="false" />
+          <Property Type="String" Name="FirstName" Nullable="true" />
+          <Property Type="String" Name="LastName" Nullable="true" />
+          <Property Type="String" Name="Gender" Nullable="true" />
+          <Property Type="Int32" Name="Salary" Nullable="false" />
+          <Property Type="String" Name="City" Nullable="true" />
+          <Property Type="String" Name="Name" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SampledataModelStoreContainer" CdmEntityContainer="SampledataEntities">
+          <EntitySetMapping Name="Departments">
+            <EntityTypeMapping TypeName="SampledataModel.Department">
+              <MappingFragment StoreEntitySet="Departments">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Employees">
+            <EntityTypeMapping TypeName="SampledataModel.Employee">
+              <MappingFragment StoreEntitySet="Employees">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="DepartmentId" ColumnName="DepartmentId" />
+                <ScalarProperty Name="City" ColumnName="City" />
+              </MappingFragment>
+            </EntityTypeMapping>
+            <EntityTypeMapping TypeName="SampledataModel.Employee">
+              <ModificationFunctionMapping>
+                <InsertFunction FunctionName="SampledataModel.Store.insertemp">
+                  <ScalarProperty Name="DepartmentId" ParameterName="depId" />
+                  <ScalarProperty Name="City" ParameterName="City" />
+                  <ScalarProperty Name="Salary" ParameterName="Salary" />
+                  <ScalarProperty Name="Gender" ParameterName="Gender" />
+                  <ScalarProperty Name="LastName" ParameterName="LastName" />
+                  <ScalarProperty Name="FirstName" ParameterName="FirstName" />
+                </InsertFunction>
+                <DeleteFunction FunctionName="SampledataModel.Store.delemp">
+                  <ScalarProperty Name="Id" ParameterName="Id" />
+                </DeleteFunction>
+              </ModificationFunctionMapping>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="getempdataResult" FunctionName="SampledataModel.Store.getemp">
+          <ResultMapping>
+              <ComplexTypeMapping TypeName="SampledataModel.getempdataResult_Result">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="City" ColumnName="City" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="getempwithdept" FunctionName="SampledataModel.Store.getempwithdept">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="SampledataModel.getempwithdept_Result">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="City" ColumnName="City" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Sample" ZoomLevel="86">
+        <EntityTypeShape EntityType="SampledataModel.Department" Width="1.5" PointX="0.75" PointY="1.375" Height="1.5956835937500002" IsExpanded="true" />
+        <EntityTypeShape EntityType="SampledataModel.Employee" Width="1.5" PointX="3" PointY="1" Height="2.5571907552083326" IsExpanded="true" />
+        <AssociationConnector Association="SampledataModel.FK_dbo_Employees_dbo_Departments_DepartmentId" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="2.1728417968750002" />
+          <ConnectorPoint PointX="3" PointY="2.1728417968750002" />
+        </AssociationConnector>
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

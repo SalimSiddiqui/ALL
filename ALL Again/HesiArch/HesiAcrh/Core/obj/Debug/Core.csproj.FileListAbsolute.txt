@@ -1,0 +1,9 @@
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\Core.dll
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\Core.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Core\obj\Debug\Core.dll
+C:\projects\#App\HesiArch\HesiAcrh\Core\obj\Debug\Core.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\AutoMapper.dll
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\System.ValueTuple.dll
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\AutoMapper.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\AutoMapper.xml
+C:\projects\#App\HesiArch\HesiAcrh\Core\bin\Debug\System.ValueTuple.xml

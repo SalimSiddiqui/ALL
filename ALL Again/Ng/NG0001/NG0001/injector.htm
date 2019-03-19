@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/angular.js" type="text/javascript"></script>
+    <script>        var app = angular.module('app', []);
+        app.service('s1', function () { this.value = 2; });
+        app.controller("MyCtrl", function ($scope, $injector) {
+            $scope.doSomething = function () {
+                var s1 = $injector.get('s1')
+                s1.value += 10
+            }
+            $scope.value = function () {
+                var s1 = $injector.get('s1')
+                return s1.value
+            }
+        }); 
+    </script>
+</head>
+<body>
+    <div ng-app="app" ng-controller="MyCtrl">
+        <button ng-click="doSomething()">
+            increment</button>
+        {{value()}}
+    </div>
+</body>
+</html>

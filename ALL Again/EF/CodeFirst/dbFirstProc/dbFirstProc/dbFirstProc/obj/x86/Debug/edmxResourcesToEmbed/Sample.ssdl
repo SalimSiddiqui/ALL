@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SampledataModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="SampledataModelStoreContainer">
+    <EntitySet Name="Departments" EntityType="SampledataModel.Store.Departments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Employees" EntityType="SampledataModel.Store.Employees" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_dbo_Employees_dbo_Departments_DepartmentId" Association="SampledataModel.Store.FK_dbo_Employees_dbo_Departments_DepartmentId">
+      <End Role="Departments" EntitySet="Departments" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Departments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="nvarchar(max)" />
+    <Property Name="LastName" Type="nvarchar(max)" />
+    <Property Name="Gender" Type="nvarchar(max)" />
+    <Property Name="Salary" Type="int" Nullable="false" />
+    <Property Name="DepartmentId" Type="int" Nullable="false" />
+    <Property Name="City" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_dbo_Employees_dbo_Departments_DepartmentId">
+    <End Role="Departments" Type="SampledataModel.Store.Departments" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Employees" Type="SampledataModel.Store.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departments">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="delemp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="getemp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="getempwithdept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="insertemp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="FirstName" Type="nvarchar" Mode="In" />
+    <Parameter Name="LastName" Type="nvarchar" Mode="In" />
+    <Parameter Name="Gender" Type="nvarchar" Mode="In" />
+    <Parameter Name="Salary" Type="int" Mode="In" />
+    <Parameter Name="depId" Type="int" Mode="In" />
+    <Parameter Name="City" Type="nvarchar" Mode="In" />
+  </Function>
+</Schema>

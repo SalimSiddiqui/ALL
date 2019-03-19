@@ -1,0 +1,13 @@
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\obj\x86\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\obj\x86\Debug\CodeFirst.Form1.resources
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\obj\x86\Debug\CodeFirst.Properties.Resources.resources
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\obj\x86\Debug\CodeFirst.csproj.GenerateResource.Cache
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\obj\x86\Debug\CodeFirst.exe
+D:\projects\#App\EF\CodeFirst\CodeFirst\CodeFirst\obj\x86\Debug\CodeFirst.pdb

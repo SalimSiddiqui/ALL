@@ -1,0 +1,12 @@
+C:\projects\#App\HesiArch\HesiAcrh\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\Service.dll
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\Service.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\Core.dll
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\Core.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Service\obj\Debug\Service.dll
+C:\projects\#App\HesiArch\HesiAcrh\Service\obj\Debug\Service.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\AutoMapper.dll
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\System.ValueTuple.dll
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\AutoMapper.pdb
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\AutoMapper.xml
+C:\projects\#App\HesiArch\HesiAcrh\Service\bin\Debug\System.ValueTuple.xml

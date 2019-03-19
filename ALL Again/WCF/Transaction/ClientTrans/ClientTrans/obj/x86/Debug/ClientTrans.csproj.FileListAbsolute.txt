@@ -1,0 +1,6 @@
+D:\projects\#App\WCF\Transaction\ClientTrans\ClientTrans\bin\Debug\ClientTrans.exe.config
+D:\projects\#App\WCF\Transaction\ClientTrans\ClientTrans\bin\Debug\ClientTrans.exe
+D:\projects\#App\WCF\Transaction\ClientTrans\ClientTrans\bin\Debug\ClientTrans.pdb
+D:\projects\#App\WCF\Transaction\ClientTrans\ClientTrans\obj\x86\Debug\ClientTrans.exe
+D:\projects\#App\WCF\Transaction\ClientTrans\ClientTrans\obj\x86\Debug\ClientTrans.pdb
+D:\projects\#App\WCF\Transaction\ClientTrans\ClientTrans\obj\x86\Debug\ClientTrans.csprojResolveAssemblyReference.cache

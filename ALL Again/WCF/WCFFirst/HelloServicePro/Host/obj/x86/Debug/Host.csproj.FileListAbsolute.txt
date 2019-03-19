@@ -1,0 +1,8 @@
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\bin\Debug\Host.exe
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\bin\Debug\Host.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\bin\Debug\HelloServicePro.dll
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\bin\Debug\HelloServicePro.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\obj\x86\Debug\Host.csprojResolveAssemblyReference.cache
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\obj\x86\Debug\Host.exe
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\obj\x86\Debug\Host.pdb
+D:\projects\#App\WCF\WCFFirst\HelloServicePro\Host\bin\Debug\Host.exe.config

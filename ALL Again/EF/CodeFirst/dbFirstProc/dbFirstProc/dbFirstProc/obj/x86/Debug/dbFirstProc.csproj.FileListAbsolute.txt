@@ -1,0 +1,14 @@
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\dbFirstProc.exe.config
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\dbFirstProc.exe
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\dbFirstProc.pdb
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\EntityFramework.dll
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\EntityFramework.xml
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\obj\x86\Debug\dbFirstProc.csprojResolveAssemblyReference.cache
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\obj\x86\Debug\dbFirstProc.Properties.Resources.resources
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\obj\x86\Debug\dbFirstProc.csproj.GenerateResource.Cache
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\obj\x86\Debug\dbFirstProc.exe
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\obj\x86\Debug\dbFirstProc.pdb
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\obj\x86\Debug\dbFirstProc.Form1.resources
+D:\projects\#App\EF\CodeFirst\dbFirstProc\dbFirstProc\dbFirstProc\bin\Debug\EntityFramework.Extensions.dll

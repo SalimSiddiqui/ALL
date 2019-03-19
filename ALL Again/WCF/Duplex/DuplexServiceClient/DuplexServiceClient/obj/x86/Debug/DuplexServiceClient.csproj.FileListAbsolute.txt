@@ -1,0 +1,5 @@
+D:\projects\#App\WCF\Duplex\DuplexServiceClient\DuplexServiceClient\bin\Debug\DuplexServiceClient.exe.config
+D:\projects\#App\WCF\Duplex\DuplexServiceClient\DuplexServiceClient\bin\Debug\DuplexServiceClient.exe
+D:\projects\#App\WCF\Duplex\DuplexServiceClient\DuplexServiceClient\bin\Debug\DuplexServiceClient.pdb
+D:\projects\#App\WCF\Duplex\DuplexServiceClient\DuplexServiceClient\obj\x86\Debug\DuplexServiceClient.exe
+D:\projects\#App\WCF\Duplex\DuplexServiceClient\DuplexServiceClient\obj\x86\Debug\DuplexServiceClient.pdb

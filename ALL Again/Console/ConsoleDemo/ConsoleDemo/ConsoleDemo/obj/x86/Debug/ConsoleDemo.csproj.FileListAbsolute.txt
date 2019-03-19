@@ -1,0 +1,15 @@
+D:\projects\App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+D:\projects\App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+D:\projects\App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.exe
+D:\projects\App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.pdb
+D:\projects\App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+D:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.exe
+D:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.pdb
+D:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+D:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+D:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.exe
+C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.pdb
+C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\obj\x86\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\projects\#App\Console\ConsoleDemo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb

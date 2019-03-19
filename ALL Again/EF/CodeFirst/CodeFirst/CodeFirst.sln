@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{EF1ABA63-44C0-4862-A7DD-3A98CC128B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1ABA63-44C0-4862-A7DD-3A98CC128B1E}.Debug|x86.ActiveCfg = Debug|x86
+		{EF1ABA63-44C0-4862-A7DD-3A98CC128B1E}.Debug|x86.Build.0 = Debug|x86
+		{EF1ABA63-44C0-4862-A7DD-3A98CC128B1E}.Release|x86.ActiveCfg = Release|x86
+		{EF1ABA63-44C0-4862-A7DD-3A98CC128B1E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

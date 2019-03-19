@@ -1,0 +1,4 @@
+D:\projects\App\Console\ConsoleDemo\Interface_Decoupling\Interface_Decoupling\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+D:\projects\App\Console\ConsoleDemo\Interface_Decoupling\Interface_Decoupling\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_Decoupling\Interface_Decoupling\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+D:\projects\App\Console\ConsoleDemo\Interface_Decoupling\Interface_Decoupling\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb

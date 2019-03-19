@@ -1,0 +1,10 @@
+D:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\bin\LinqtoSql.dll
+D:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\bin\LinqtoSql.pdb
+D:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.dll
+D:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.pdb
+C:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\bin\LinqtoSql.dll.config
+C:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\bin\LinqtoSql.dll
+C:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\bin\LinqtoSql.pdb
+C:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.csprojResolveAssemblyReference.cache
+C:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.dll
+C:\projects\#App\LinqSql\LinqtoSql\LinqtoSql\obj\Debug\LinqtoSql.pdb

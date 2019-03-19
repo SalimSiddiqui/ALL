@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<script src="Scripts/angular.js" type="text/javascript"></script>
+<head>
+ <title>Emit</title>
+
+ <script>
+     var app = angular.module('app', []);
+
+     app.controller("firstCtrl", function ($scope) {
+         $scope.$on('eventName', function (event, args) {
+             $scope.message = args.message;
+             console.log($scope.message);
+         });
+     });
+
+     app.controller("secondCtrl", function ($scope) {
+         $scope.handleClick = function (msg) {
+             $scope.$emit('eventName', { message: msg });
+         };
+     });
+ 
+ </script>
+</head>
+<body ng-app="app">
+ <div ng-controller="firstCtrl" style="border:2px solid #E75D5C; padding:5px;">
+ <h1>Parent Controller</h1>
+ <p>Emit Message :{{message}} </p>
+ <br />
+ <div ng-controller="secondCtrl" style="border:2px solid #428bca;padding:5px;">
+ <h1>Child Controller</h1>
+ <input ng-model="msg">
+ <button ng-click="handleClick(msg);">Emit</button>
+ </div>
+ </div>
+</body>
+
+</html>

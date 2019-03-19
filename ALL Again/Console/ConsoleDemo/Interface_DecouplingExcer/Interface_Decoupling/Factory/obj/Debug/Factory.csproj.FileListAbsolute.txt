@@ -1,0 +1,9 @@
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\bin\Debug\Factory.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\bin\Debug\Factory.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\bin\Debug\Customer.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\bin\Debug\InterfaceCustomer.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\bin\Debug\Customer.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\bin\Debug\InterfaceCustomer.pdb
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\obj\Debug\Factory.dll
+D:\projects\App\Console\ConsoleDemo\Interface_DecouplingExcer\Interface_Decoupling\Factory\obj\Debug\Factory.pdb

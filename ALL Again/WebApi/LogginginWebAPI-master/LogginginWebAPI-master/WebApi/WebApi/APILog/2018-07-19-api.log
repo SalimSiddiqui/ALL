@@ -1,0 +1,39 @@
+2018-07-19 20:53:44.8900|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-07-19 21:08:00.6983|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-07-19 21:08:23.7033|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Tokens_User". The conflict occurred in database "WebApiDb", table "dbo.User", column 'UserId'.
+The statement has been terminated.
+
+
+2018-07-19 21:10:13.2612|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-07-19 21:10:20.8085|ERROR|WebApi.Helpers.NLogger|Method: POST
+URL: http://localhost:50875/authenticate
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+Error: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Tokens_User". The conflict occurred in database "WebApiDb", table "dbo.User", column 'UserId'.
+The statement has been terminated.
+
+

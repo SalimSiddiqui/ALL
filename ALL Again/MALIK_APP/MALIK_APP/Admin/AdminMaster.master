@@ -1,0 +1,186 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminMaster.master.cs"
+    Inherits="admin_AdminMaster" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title>Welcome To Malik Associates</title>
+     <link href="../StyleSheet/styles.css" rel="stylesheet" type="text/css" />
+    <script src="../Scripts/jquery-1.4.1.min.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery.MultiFile.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../jquiry/curvycorners.js"></script>
+    <script type="text/javascript" src="../jquiry/curvycorners.src.js"></script>
+    <script type="text/javascript" src="../js/ie_png.js"></script>
+
+    <script type="text/javascript">
+function CallPrint12(strid,msg)
+{
+ var prtContent = document.getElementById(strid);
+ var WinPrint = window.open('','','letf=0,top=0,width=700 ,height=600,toolbar=0,scrollbars=0,status=0');
+ var content="<div align='center'><img src='../images/logo.png' width='266' height='90'/></div><br/>"+msg+"<br/>"+prtContent.innerHTML;
+ WinPrint.document.write(content);
+ WinPrint.document.close();
+ WinPrint.focus();
+ WinPrint.print();
+ WinPrint.close();
+ 
+ //prtContent.innerHTML=strOldOne;
+} 
+
+function openpopup(popurl){
+var winpops=window.open(popurl,"_blank","status=yes,toolbar=no,location=no,menu=no,width=600,height=550,screenX=150,screenY=100")
+}
+
+function openpopup_binary(popurl){
+var winpops=window.open(popurl,"_blank","status=yes,location=yes,scrollbars=yes,screenX=0,screenY=0,width=970,height=550,left=0,top=0")
+
+}
+function openpopup1(popurl){
+var winpops=window.open(popurl,"_blank","status=yes,location=yes,scrollbars=yes,screenX=0,screenY=0,width=520,height=350,left=0,top=0")
+
+}
+function back()
+{
+document.getElementById("tab1").style.backgroundColor="Gray";
+document.getElementById("tab1").innerHTML="asa";
+}
+    </script> 
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <!--container starts-->
+    
+        <!--header starts-->
+         <div id="header_p" style="border-bottom:1px solid #069;">
+        <div id="header">
+            <div class="logoarrange">
+                <div class="dash">
+                    <table width="94%" cellspacing="3" cellpadding="4" style="margin-left: 600px;">
+                        <tr>
+                            <td width="61%" align="right" valign="top">
+                                <a href="AddProperty.aspx">
+                                    <img src="../images/Button/user.png" alt="usre" /></a>
+                            </td>
+                            <td width="22%" valign="middle">
+                                <div>
+                                    <a href="AddProperty.aspx">My Dashboard</a></div>
+                            </td>
+                            <td width="6%" align="left">
+                                <div>
+                                    <a href="logout.aspx">
+                                        <img src="../images/Button/logout.png" alt="logout" /></a></div>
+                            </td>
+                            <td width="11%" align="left" valign="top">
+                                <a href="logout.aspx">Logout</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="39" colspan="4" align="right">
+                                <a href="AddProperty.aspx"><em>Welcome</em>, <span>
+                                    <%=Convert.ToString(Session["User_Id"]) %></span></a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div id="container">
+   
+        <div id="content" style="min-height: 508px;width:100%">
+            <div class="pin" style="width:100%">
+                <table class="tab" id="tbb" width="100%">
+                    <tr>
+                    <td class="td_wid">
+                            <a href="WhatsNew.aspx">
+                                <img src="../images/new.png" alt="" /></a>
+                        </td>
+                       <td class="td_wid">
+                            <a href="NewsUpdate.aspx">
+                                <img src="../images/Button/8.png" alt="" /></a>
+                        </td>
+                        <td class="td_wid">
+                            <a href="AccSetting.aspx">
+                                <img src="../images/Button/9.png" alt="" /></a>
+                        </td>                                                 
+                        
+                         <td class="td_wid">
+                            <a href="AddProperty.aspx">
+                                <img src="../images/Button/property.png" /></a>
+                        </td> 
+                         <td class="td_wid">
+                            <a href="SafarRegistration.aspx">
+                                <img src="../images/Button/6.png" /></a>
+                        </td> 
+                        <td class="td_wid">
+                            <a href="ProductMaster.aspx">
+                                <img src="../images/Button/2.png" /></a>
+                        </td> 
+                        <td  class="td_wid">
+                         <a href="ShoppingDetail.aspx">
+                                <img src="../images/addtocard.png" /></a>
+                        
+                        </td>
+
+
+                    </tr>
+                    <tr align="center" >
+                      <td>
+                            <a href="WhatsNew.aspx">What's New</a>
+                        </td>
+                       <td>
+                            <a href="NewsUpdate.aspx">News</a>
+                        </td>
+                        <td>
+                            <a href="AccSetting.aspx">Settings</a>
+                        </td>
+                        
+                        
+                     <td>
+                            <a href="AddProperty.aspx">Property</a>
+                        </td>  
+                        <td>
+                            <a href="SafarRegistration.aspx">Tour & Travels</a>
+                        </td>  
+                          <td>
+                            <a href="ProductMaster.aspx">Product Master</a>
+                        </td>   
+                        
+                          <td>
+                            <a href="ShoppingDetail.aspx">Shopping Detail</a>
+                        </td>   
+                        
+                    </tr>
+                </table>
+            </div>
+            <form runat="server">
+            <cc1:ToolkitScriptManager runat="Server" EnablePageMethods="true" ID="ScriptManager1" />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            </form>
+        </div>
+        </div>
+        <!--content close-->
+        <!--footer starts-->
+    <div id="footer_p">
+        <div id="footer">
+            <div class="f_menu">
+                <a href="#">Home</a><span>|</span> <a href="#">About Us</a><span>|</span> <a href="#">
+                    Terms &amp; Conditions</a><span>|</span> <a href="#">Privacy Policy</a><span>|</span>
+                <a href="#">Legal</a><span>|</span> <a href="#">FAQs</a><span>|</span> <a href="#">Franchisee</a><span>|</span>
+                <a href="#">Contact</a>
+                <p>
+                    © 2010 Malik Associates | <a href="#">Terms of service</a> | <a href="#">Privacy policy</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!--footer close-->
+  
+    <!--container close-->
+</body>
+</html>

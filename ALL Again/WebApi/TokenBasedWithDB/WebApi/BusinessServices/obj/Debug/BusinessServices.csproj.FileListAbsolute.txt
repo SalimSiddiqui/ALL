@@ -1,0 +1,48 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\DataModel.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+C:\projects\#App\WebApi\TokenBasedWithDB\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
