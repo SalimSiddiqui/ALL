@@ -1,0 +1,24 @@
+VDI chawlas003
+Elsevier1
+https://wf5.myhcl.com/LMSWeb/holidaycalendar.aspx
+Yp)lEMg7
+usp_Import_ListUnprocessedTestTakers
+usp_Import_CheckForGuid
+usp_Import_InsertTestTaker
+.ProcessTestTakers
+milliseconds
+Floppy
+
+CheckSchedule
+SmarTest Delivery
+migrateToInetReporting
+PackageXML
+ImportDelivery_InetReporting
+Inet Delivery
+UpdateProcessStart
+ConvertRtf_Html
+UpdateStem_Rationale_Supplement
+h t t p s : / /ocsweb.hcl.com
+
+DeliveryQueueItem
+DeliveryQueueId,DeliveryId

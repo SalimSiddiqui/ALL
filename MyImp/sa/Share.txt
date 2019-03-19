@@ -1,0 +1,1 @@
+net share Forme="D:\CS" /GRANT:Everyone,FULL
